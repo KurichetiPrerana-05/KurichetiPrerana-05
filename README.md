@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Prerana 👋
 
-<!--
-**KurichetiPrerana-05/KurichetiPrerana-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence at Amrita Vishwa Vidyapeetham  
+🤖 Interested in Machine Learning, Deep Learning, and LLM-based systems  
+🛠️ I build end-to-end AI projects using Python, FastAPI, and React  
+🚀 Looking for internship opportunities in AI / ML / Product-focused roles  
 
-Here are some ideas to get you started:
+## 🔥 Skills
+### 💻 Programming
+- Python, C++, C, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI / Machine Learning
+- Machine Learning, Deep Learning  
+- Representation Learning & Embeddings  
+- Multimodal AI (Image + Text)  
+- Similarity Search & Ranking  
+- Feature Engineering  
+- Model Evaluation & Metrics  
+
+### 🧠 NLP / Generative AI
+- LLM API Integration (Local & Cloud)  
+- Retrieval-Augmented Generation (RAG) Pipelines  
+- Prompt Engineering  
+- HuggingFace Transformers  
+- Embedding-based Retrieval  
+
+### 👁️ Computer Vision & Signal Processing
+- Image Processing  
+- Convolutional Neural Networks (CNNs)  
+- Spectrogram Analysis  
+- Time-Series Analysis  
+
+### 🗄️ Databases / Tools
+- PostgreSQL, MySQL  
+- Vector Search  
+- Python ML Stack (NumPy, Pandas, scikit-learn, etc.)  
+- Apache Spark  
+
+## 📌 Featured Projects
+- 🧠 AI-Powered Startup Analyzer (Multi-Agent System)
+- 📚 Orion – Offline RAG System
+- 🌍 NDVI Remote Sensing Analysis
+- 🧬 ADHD Detection using EEG (Deep Learning)
+- 💬 Hinglish Sentiment Analysis
+
+
+
+## 📫 Contact
+- Email: preranakuricheti18@gmail.com
+- LinkedIn: www.linkedin.com/in/prerana-kuricheti-8021672b0
