@@ -72,8 +72,9 @@ Key highlights of the research include:
 ---
 
 ### 📸 Conference Moments
-![certificate](![certificate](https://github.com/user-attachments/assets/0db960d3-04b4-4e24-afff-91ac717a21bd)
-)
+## 📸 Conference Moments
+
+![Certificate](certificate.jpeg)
 
 
 ## 📫 Contact
