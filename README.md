@@ -42,6 +42,9 @@
 - 🌍 NDVI Remote Sensing Analysis
 - 🧬 ADHD Detection using EEG (Deep Learning)
 - 💬 Hinglish Sentiment Analysis
+## 📄 Research Paper Presentation  
+ICBSII 2026 – Biosignals, Images, and Instrumentation Conference  
+Topic: EEG-based ADHD Detection using EEGNet
 ## 📢 Conference Presentation
 
 Our research paper titled **"Investigation of EEGNet and its variants for ADHD Detection: Joint Spatial, Temporal, and Frequency Domain Learning"** was accepted and presented at the **2026 Twelfth International Conference on Biosignals, Images, and Instrumentation (ICBSII)** hosted by the Department of Biomedical Engineering, SSN College of Engineering.
