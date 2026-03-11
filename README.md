@@ -42,7 +42,35 @@
 - 🌍 NDVI Remote Sensing Analysis
 - 🧬 ADHD Detection using EEG (Deep Learning)
 - 💬 Hinglish Sentiment Analysis
+## 📢 Conference Presentation
 
+Our research paper titled **"Investigation of EEGNet and its variants for ADHD Detection: Joint Spatial, Temporal, and Frequency Domain Learning"** was accepted and presented at the **2026 Twelfth International Conference on Biosignals, Images, and Instrumentation (ICBSII)** hosted by the Department of Biomedical Engineering, SSN College of Engineering.
+
+The work focuses on applying **deep learning architectures such as EEGNet and its variants** to detect ADHD from EEG signals by jointly learning **spatial, temporal, and frequency-domain representations**.
+
+Key highlights of the research include:
+- EEG preprocessing using **Butterworth band-pass filtering and FastICA artifact removal**
+- Feature learning using **EEGNet and Modified EEGNet (ShallowConvNet)**
+- **Wilcoxon rank-sum test** for channel selection
+- Subject-wise **Group K-Fold validation** to avoid data leakage
+- Analysis of EEG band power differences across **Delta, Theta, Alpha, Beta, and Gamma bands**
+
+📍 Conference: **ICBSII 2026**  
+📍 Location: SSN College of Engineering  
+📍 Authors:
+- Kuricheti Prerana
+- Niharika Sharma
+- Diya Dinesh
+- Pavani Satwika
+- Dr. Amrutha Veluppal
+
+📄 Paper: [View Paper][(https://drive.google.com/file/d/144bgQYGNuHxCd6pGGequmV6HGM5nycrK/view?usp=sharing)]
+
+---
+
+### 📸 Conference Moments
+![certificate](![certificate](https://github.com/user-attachments/assets/0db960d3-04b4-4e24-afff-91ac717a21bd)
+)
 
 
 ## 📫 Contact
