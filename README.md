@@ -70,7 +70,7 @@ Key highlights of the research include:
 📄 Paper: [View Paper][(https://drive.google.com/file/d/144bgQYGNuHxCd6pGGequmV6HGM5nycrK/view?usp=sharing)]
 
 ---
-## 📸 Conference Moments
+
 <h2>📸 Conference Moments</h2>
 
 <p align="center">
