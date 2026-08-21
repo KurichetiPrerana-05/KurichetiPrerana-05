@@ -135,7 +135,7 @@ Sentiment classification model tailored to code-mixed Hindi-English (Hinglish) t
 
 ### 📄 Research & Publications
 
-**"Investigation of EEGNet and its variants for ADHD Detection: Joint Spatial, Temporal, and Frequency Domain Learning"**
+**1. "Investigation of EEGNet and its Variants for ADHD Detection: Joint Spatial, Temporal, and Frequency Domain Learning"**
 📍 Presented at the **2026 Twelfth International Conference on Biosignals, Images, and Instrumentation (ICBSII)**, Dept. of Biomedical Engineering, SSN College of Engineering
 
 **Authors:** Kuricheti Prerana, Niharika Sharma, Diya Dinesh, Pavani Satwika, Dr. Amrutha Veluppal
@@ -149,9 +149,12 @@ Sentiment classification model tailored to code-mixed Hindi-English (Hinglish) t
 
 📄 [View Paper](https://drive.google.com/file/d/144bgQYGNuHxCd6pGGequmV6HGM5nycrK/view?usp=sharing)
 
-<p align="center">
-  <img src="certificate.jpeg" height="350" alt="ICBSII 2026 Conference Certificate">
-</p>
+---
+
+**2. "Automated Crop Health Monitoring using NDVI and Machine Learning Techniques"**
+📍 Presented at the **ISPRS Conference, 2025**
+
+A remote-sensing pipeline applying NDVI (Normalized Difference Vegetation Index) and machine learning techniques on satellite/aerial imagery for automated crop health monitoring.
 
 ---
 
