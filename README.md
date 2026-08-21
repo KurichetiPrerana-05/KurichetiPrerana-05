@@ -32,43 +32,84 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
 </p>
 
-**AI / Machine Learning**
+**ML / DL Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Representation%20Learning-6A5ACD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Multimodal%20AI-8A2BE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Similarity%20Search%20%26%20Ranking-2E8B57?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-20B2AA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-006400?style=flat-square"/>
 </p>
 
-**NLP / Generative AI**
+**Computer Vision & Multimodal**
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Optical%20Flow-708090?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Feature%20Tracking-708090?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Object%20Detection-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OCR%20%26%20Document%20Understanding-2E8B57?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Signal%20%26%20Image%20Processing-20B2AA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Remote%20Sensing-556B2F?style=flat-square"/>
+</p>
+
+**AI / ML & Statistics**
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-4682B4?style=flat-square"/>
+</p>
+
+**LLM / GenAI**
 <p>
   <img src="https://img.shields.io/badge/RAG%20Pipelines-FF4500?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LLM%20API%20Integration-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Embedding--based%20Retrieval-006400?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-FF7F50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-800000?style=flat-square"/>
 </p>
 
-**Computer Vision & Signal Processing**
+**Data Engineering**
 <p>
-  <img src="https://img.shields.io/badge/CNNs-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Image%20Processing-3776AB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Spectrogram%20Analysis-708090?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Time--Series%20Analysis-2F4F4F?style=flat-square"/>
-</p>
-
-**Databases & Tools**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20Search-FF7F50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Pipelines-2F4F4F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ETL-696969?style=flat-square"/>
+  <img src="https://img.shields.io/badge/REST%20APIs%20%26%20Microservices-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-B22222?style=flat-square"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+</p>
+
+**Cloud, Backend & Systems**
+<p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ChromaDB-6A0DAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+**Core CS & Tools**
+<p>
+  <img src="https://img.shields.io/badge/OOP-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-8B0000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Design-2F4F4F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+**Testing & Quality** *(learning)*
+<p>
+  <img src="https://img.shields.io/badge/Unit%20Testing-6B8E23?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Test%20Automation-556B2F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Functional%20Testing-8FBC8F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Code%20Coverage-2E8B57?style=flat-square"/>
 </p>
 
 ---
@@ -109,7 +150,7 @@ Sentiment classification model tailored to code-mixed Hindi-English (Hinglish) t
 📄 [View Paper](https://drive.google.com/file/d/144bgQYGNuHxCd6pGGequmV6HGM5nycrK/view?usp=sharing)
 
 <p align="center">
-  <img src="certificate.jpeg" width="500" alt="ICBSII 2026 Conference Certificate">
+  <img src="certificate.jpeg" height="350" alt="ICBSII 2026 Conference Certificate">
 </p>
 
 ---
@@ -117,12 +158,12 @@ Sentiment classification model tailored to code-mixed Hindi-English (Hinglish) t
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KurichetiPrerana-05&show_icons=true&theme=default&count_private=true" alt="Prerana's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurichetiPrerana-05&theme=default" alt="Prerana's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KurichetiPrerana-05&show_icons=true&count_private=true" alt="Prerana's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurichetiPrerana-05" alt="Prerana's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurichetiPrerana-05&layout=compact&theme=default" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurichetiPrerana-05&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
