@@ -19,7 +19,7 @@
 - 🔬 Deeply interested in **NLP, multilingual AI systems, and Retrieval-Augmented Generation (RAG)**
 - 🛠️ I build end-to-end AI systems — from data ingestion and embeddings to production-ready retrieval pipelines
 - 📄 Published & presented research on **EEG-based ADHD detection** at ICBSII 2026
-- 🚀 Actively looking for **AI / ML / QA Engineering** internship and full-time opportunities
+- 🚀 Actively looking for **AI / ML / QA Engineering / Software Development** internship and full-time opportunities
 - 💬 Ask me about RAG pipelines, hybrid retrieval (BM25 + dense + reranking), or multimodal document QA
 
 ---
@@ -154,20 +154,11 @@ Sentiment classification model tailored to code-mixed Hindi-English (Hinglish) t
 **2. "Automated Crop Health Monitoring using NDVI and Machine Learning Techniques"**
 📍 Presented at the **ISPRS Conference, 2025**
 
+**Authors:** Patel Srikari Shasi, Kuricheti Prerana
+
 A remote-sensing pipeline applying NDVI (Normalized Difference Vegetation Index) and machine learning techniques on satellite/aerial imagery for automated crop health monitoring.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KurichetiPrerana-05&show_icons=true&count_private=true" alt="Prerana's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KurichetiPrerana-05" alt="Prerana's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurichetiPrerana-05&layout=compact" alt="Top Languages"/>
-</p>
+🔗 [View Repository](https://github.com/KurichetiPrerana-05/CLUSTERINGMETHODSFORCROP-GROWTHANALYSIS)
 
 ---
 
@@ -182,4 +173,4 @@ A remote-sensing pipeline applying NDVI (Normalized Difference Vegetation Index)
   </a>
 </p>
 
-<p align="center"><i>Open to AI/ML, NLP, and QA Engineering internships & full-time roles 🚀</i></p>
+<p align="center"><i>Open to AI/ML, NLP, QA Engineering, and Software Development internships & full-time roles 🚀</i></p>
